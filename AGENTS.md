@@ -4,7 +4,7 @@ GamePal 是 **Fami 可分享門面**（GitHub Pages）＋ **家裡保險庫**（
 
 ## 架構
 
-- **公開門面**：<https://theoldfathertw.github.io/gamepal/>（靜態 HTML／JS／CSS；鑰匙、截圖、記憶不上這個庫）
+- **公開門面**：<https://weslie4436.github.io/gamepal/>（靜態 HTML／JS／CSS；鑰匙、截圖、記憶不上這個庫）
 - **家裡保險庫**：`python -m gamepal vault`（埠 8769），經隧道對外
 - **隧道網址**：寫在 `config.js` 的 `window.VAULT_ORIGIN`（本 Wave 不改 runtime config）
 - **鑰匙**：URL `?k=`／hash／cookie／localStorage；由 `gate.js` 的 `FamiGate` 核心處理
