@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://metallic-resources-segment-pick.trycloudflare.com";
+window.VAULT_ORIGIN = "https://evaluation-learners-novels-oriented.trycloudflare.com";
