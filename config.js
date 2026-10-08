@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://sensitivity-instructional-lewis-unsigned.trycloudflare.com";
+window.VAULT_ORIGIN = "https://myrtle-gas-developers-ray.trycloudflare.com";
