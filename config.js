@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://myrtle-gas-developers-ray.trycloudflare.com";
+window.VAULT_ORIGIN = "https://enjoyed-yeast-mud-mustang.trycloudflare.com";
