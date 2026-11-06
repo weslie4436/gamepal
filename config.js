@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://dishes-craft-relocation-boss.trycloudflare.com";
+window.VAULT_ORIGIN = "https://tops-wrap-gallery-happiness.trycloudflare.com";
