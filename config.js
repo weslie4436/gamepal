@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://tops-wrap-gallery-happiness.trycloudflare.com";
+window.VAULT_ORIGIN = "https://forums-anatomy-run-consistency.trycloudflare.com";
