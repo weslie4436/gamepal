@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://relatives-solutions-robbie-delays.trycloudflare.com";
+window.VAULT_ORIGIN = "https://arranged-reserved-evanescence-medicines.trycloudflare.com";
